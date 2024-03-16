@@ -53,12 +53,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My name is simon and I'm a passionate developer. I love learning and trying new things and I'm not scared to learn other areas aswel.
+      I did my apprenticeship at Provinzial Rheinland Versicherung AG in cooporation with codecentric AG, Solingen. 
+      Besides the thorough training in Java and Cobol, a strong focus was placed on data structures, algorithmics and software architecture.
+      Instead of the traditional 3 years, this apprenticeship was shortened to 2.5 years.
+
+      Besides my job, I like tinkering and learning with my homelab, coding small, private projects and solve capture the flags on hackthebox.com.
 education:
     title: Education
     info:
