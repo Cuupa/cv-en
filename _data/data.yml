@@ -62,200 +62,197 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Software engineer Apprenticeship
+        company: Provinzial Rheinland Versicherung AG
+        time: 2010 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Apprenticeship at Provinzial Rheinland Versicherung AG in cooporation with codecentric AG, Solingen. 
+          Besides the thorough training in Java and Cobol, a strong focus was placed on data structures, algorithmics and software architecture.
+          Instead of the traditional 3 years, this apprenticeship was shortened to 2.5 years.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Developer Java
+        time: 2023 - Present
+        company: Provinzial Versicherung AG
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Due to the merger, old application landscape was transitioned into a new, company-wide application landscape, while maintaining the legacy systems
+            - Implementing a new security architecture
+            - Creating APIs to enable information transfer between new and legacy systems.
+      - role: Software Developer Java
+        time: 2020 - 2023
+        company: Provinzial Rheinland Versicherung AG
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Maintanance of the document managemend and workflow system as well as maintaining the automated processes with camunda BPMN
+      - role: Software Developer Java
+        time: 2019 - 2020
+        company: Provinzial Rheinland Versicherung AG
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Implementation of fully automated, conclusively processing termination letters for life insurance contracts.
+          - Implementation of functional requirements with camunda BPMN
+          - Further development of existing infrastructure
+          - Organizational tasks
+          - In charge of system wide interfaces for example document and workflow system and interfaces for the semantic system
+      - role: Software Developer Java
+        time: 2018
+        company: Provinzial Rheinland Versicherung AG
+        details: |
+          Implementation of fully automated, conclusively processing termination letters and change notification for commercial and industrial clients.
+          - Implementation of functional requirements with camunda BPMN
+          - Maintanance and further development for existing infrastructure and interfaces
+      - role: Software Developer Java
+        time: 2017 - 2018
+        company: Provinzial Rheinland Versicherung AG
+        details: |
+          Implementation of fully automated, conclusively processing termination letters for motor contracts for a subsidiary. The goal was to relief the departments during end of year business. 
+          - Integrating the previously chosen semantic system into the existing system architecture
+          - Implementation of functional requirements with camunda BPMN
+      - role: Software Developer Java
+        time: 2016
+        company: Provinzial Rheinland Versicherung AG
+        details: |
+          Piloting a semantic text recognition system 
+          - Comparing two systems from different vendors under identical conditions
+          - Comparison in terms of accuracy, adaptability and integration into our system landscape
+      - role: Software Developer Java
+        time: 2015 - 2016
+        company: Provinzial Rheinland Versicherung AG
+        details: |
+          Replacement of the old workflow system with camunda BPMN while in operation
+          - Migration of running processes
+          - Creating new process models for our application
+          - Refactoring and technical redesign of our application focusing on adaptability, robustnes and extendability
+              
+      
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Angular Basics
+          start: 2023
+          end: 2023
+          organization: Provinzial Versicherung AG
+          credentialurl: https://www.angulararchitects.io
+          credentialname: Angular Architects
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
+            Introduction to Angular
+        - name: Java after 8
+        - name: Java Master Class
+          credentialurl: https://www.javaspecialists.eu/
+        - name: Spring core
+        - name: Camunda BPMN for developers
+          start: 2017
+          end: 2017
+          organization: Provinzial Versicherung AG
           credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          credentialurl: https://camunda.com/
+          credentialname: Camunda
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Camunda BPMN for developers
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       am a passionate computer scientist. My interest extends beyond just programming; I enjoy looking into other areas aswel."
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Classificator
+        link: "https://github.com/Cuupa/classificator"
+        tagline: "A text classification system completly without AI"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: astrosort
+        link: "https://github.com/Cuupa/astrosort"
+        tagline: "A simple python program to sort and organize images for astrophotography made for a friend"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: price-scaper
+        link: "https://github.com/Cuupa/price-scraper"
+        tagline: "A project to learn flask and deepen my knowledge for JavaScript and Python"
 
-      - title: Atom
+      - title: My homelab
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "I have several servers with serveral services, mostly made with docker-compose. These services includes monitoring, reverse-proxy, DNS servers, vscode-server etc. I provision these services with ansible and also have connected my solar inverter to grafana"
 
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+ #       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+ #       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Kotlin
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Spring
+        level: 90%
+
+      - name: Python
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Git
+        level: 80%
+      
+      - name: Docker
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: C#
+        level: 80%
+
+      - name: Ansible
+        level: 50%
+
+      - name: SQL
+        level: 50%
+
+      - name: Cobol
+        level: 30%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
