@@ -133,20 +133,19 @@ certifications:
           start: 2023
           end: 2023
           organization: Provinzial Versicherung AG
-          credentialurl: https://www.angulararchitects.io
+          credentialurl: www.angulararchitects.io
           credentialname: Angular Architects
           details: |
             Introduction to Angular
         - name: Java after 8
         - name: Java Master Class
-          credentialurl: https://www.javaspecialists.eu/
+          credentialurl: www.javaspecialists.eu/
         - name: Spring core
         - name: Camunda BPMN for developers
           start: 2017
           end: 2017
           organization: Provinzial Versicherung AG
-          credentialid: 111-222
-          credentialurl: https://camunda.com/
+          credentialurl: camunda.com/
           credentialname: Camunda
           details: |
             Camunda BPMN for developers
@@ -154,7 +153,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-       am a passionate computer scientist. My interest extends beyond just programming; I enjoy looking into other areas aswel."
+      I am a passionate computer scientist. My interest extends beyond just programming; I enjoy looking into other areas aswel."
     assignments:
       - title: Classificator
         link: "https://github.com/Cuupa/classificator"
@@ -172,9 +171,6 @@ projects:
         link: "#"
         tagline: "I have several servers with serveral services, mostly made with docker-compose. These services includes monitoring, reverse-proxy, DNS servers, vscode-server etc. I provision these services with ansible and also have connected my solar inverter to grafana"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #oss:
 #    title: OSS Contributions
@@ -230,6 +226,12 @@ skills:
       - name: Spring
         level: 90%
 
+      - name: Linux
+        level: 90%
+
+      - name: Camunda BPMN
+        level: 80%
+
       - name: Python
         level: 80%
 
@@ -245,10 +247,10 @@ skills:
       - name: C#
         level: 80%
 
-      - name: Ansible
-        level: 50%
-
       - name: SQL
+        level: 60%
+
+      - name: Ansible
         level: 50%
 
       - name: Cobol
