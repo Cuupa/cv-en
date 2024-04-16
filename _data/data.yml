@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My name is simon and I'm a passionate developer. I love learning and trying new things and I'm not scared to learn other areas aswel.
+      My name is Simon and I'm a passionate developer. I love learning and trying new things.
       I did my apprenticeship at Provinzial Rheinland Versicherung AG in cooporation with codecentric AG, Solingen. 
       Besides the thorough training in Java and Cobol, a strong focus was placed on data structures, algorithmics and software architecture.
       Instead of the traditional 3 years, this apprenticeship was shortened to 2.5 years.
@@ -69,6 +69,12 @@ education:
           Apprenticeship at Provinzial Rheinland Versicherung AG in cooporation with codecentric AG, Solingen. 
           Besides the thorough training in Java and Cobol, a strong focus was placed on data structures, algorithmics and software architecture.
           Instead of the traditional 3 years, this apprenticeship was shortened to 2.5 years.
+      
+      - degree: Technical diploma
+        company: Höhere Technikschule - Berufskolleg Uerdingen
+        time: 2008 - 2010
+        details: |
+          In these 2 years, I aquired my "Fachabitur" in computer scienece and electrical engineering, where I aquired my technical college certificate.
 
 experiences:
     title: Experiences
@@ -153,7 +159,7 @@ certifications:
 projects:
     title: Projects
     intro: >
-      I am a passionate computer scientist. My interest extends beyond just programming; I enjoy looking into other areas aswel."
+      I am a passionate programmer and software engineer. While I love creating software, my interest extends beyond just programming; I enjoy looking into other areas like servers and infrastructure aswel.
     assignments:
       - title: Classificator
         link: "https://github.com/Cuupa/classificator"
