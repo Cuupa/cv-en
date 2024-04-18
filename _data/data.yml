@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Simon Thiel
-    tagline: Full Stack Developer
+    tagline: Software Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,7 +54,7 @@ career-profile:
     title: Career Profile
     summary: |
       My name is Simon and I'm a passionate developer. I love learning and trying new things.
-      I did my apprenticeship at Provinzial Rheinland Versicherung AG in cooporation with codecentric AG, Solingen. 
+      I did my apprenticeship at Provinzial Rheinland Versicherung AG in cooporation with codecentric AG, Solingen in 2010.
       Besides the thorough training in Java and Cobol, a strong focus was placed on data structures, algorithmics and software architecture.
       Instead of the traditional 3 years, this apprenticeship was shortened to 2.5 years.
 
@@ -79,19 +79,24 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Software Developer Java
+      - role: Java Software Developer
+        time: 2010 - Present
+        company: Provinzial Versicherung AG
+        details: |
+          Maintanance and development of the document management system, archive and the digital inbox and workflow system.
+      - role: Java Software Developer
         time: 2023 - Present
         company: Provinzial Versicherung AG
         details: |
           Due to the merger, old application landscape was transitioned into a new, company-wide application landscape, while maintaining the legacy systems
             - Implementing a new security architecture
             - Creating APIs to enable information transfer between new and legacy systems.
-      - role: Software Developer Java
+      - role: Java Software Developer
         time: 2020 - 2023
         company: Provinzial Rheinland Versicherung AG
         details: |
           Maintanance of the document managemend and workflow system as well as maintaining the automated processes with camunda BPMN
-      - role: Software Developer Java
+      - role: Java Software Developer
         time: 2019 - 2020
         company: Provinzial Rheinland Versicherung AG
         details: |
@@ -100,28 +105,28 @@ experiences:
           - Further development of existing infrastructure
           - Organizational tasks
           - In charge of system wide interfaces for example document and workflow system and interfaces for the semantic system
-      - role: Software Developer Java
+      - role: Java Software Developer
         time: 2018
         company: Provinzial Rheinland Versicherung AG
         details: |
           Implementation of fully automated, conclusively processing termination letters and change notification for commercial and industrial clients.
           - Implementation of functional requirements with camunda BPMN
           - Maintanance and further development for existing infrastructure and interfaces
-      - role: Software Developer Java
+      - role: Java Software Developer
         time: 2017 - 2018
         company: Provinzial Rheinland Versicherung AG
         details: |
           Implementation of fully automated, conclusively processing termination letters for motor contracts for a subsidiary. The goal was to relief the departments during end of year business. 
           - Integrating the previously chosen semantic system into the existing system architecture
           - Implementation of functional requirements with camunda BPMN
-      - role: Software Developer Java
+      - role: Java Software Developer
         time: 2016
         company: Provinzial Rheinland Versicherung AG
         details: |
           Piloting a semantic text recognition system 
           - Comparing two systems from different vendors under identical conditions
           - Comparison in terms of accuracy, adaptability and integration into our system landscape
-      - role: Software Developer Java
+      - role: Java Software Developer
         time: 2015 - 2016
         company: Provinzial Rheinland Versicherung AG
         details: |
