@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Simon Thiel
+    name: Simon Seifried
     tagline: Software Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -17,8 +17,8 @@ sidebar:
     timezone: Europe/Berlin
     citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: simon-thiel-aa71971bb
-    xing: Simon_Thiel5
+    linkedin: simon-seifried-aa71971bb
+    xing: Simon_Seifried084115
     github: Cuupa
     telegram: # add your nickname without '@' sign
     gitlab:
